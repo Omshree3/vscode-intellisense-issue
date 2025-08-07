@@ -81,8 +81,13 @@ This repository highlights two things:
 If you find this helpful:
 
 - Give the repo a **star** 🌟
+YOLO test - for badge
+
 - Share with other Python/VSC beginners
 - Submit misunderstood Python code examples via PR
+
+Update README for YOLO badge
+
 
 ---
 
