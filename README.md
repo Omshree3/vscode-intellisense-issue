@@ -87,6 +87,7 @@ YOLO test - for badge
 - Submit misunderstood Python code examples via PR
 
 Update README for YOLO badge
+Testing co-author commit for badge
 
 
 ---
