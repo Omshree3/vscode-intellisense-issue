@@ -2,7 +2,7 @@
 
 ---
 
-### 📊 Open Source Contributions
+### 📊 Open Source Contributions.
 
 [![GitHub](https://img.shields.io/badge/-IntelliSense_not_working_in_Python_after_August_2025_VS_Code_update-181717?style=for-the-badge&logo=github)](https://github.com/issues/created?issue=microsoft%7Cpylance-release%7C7481)
 
@@ -87,6 +87,7 @@ YOLO test - for badge
 - Submit misunderstood Python code examples via PR
 
 Update README for YOLO badge
+Testing co-author commit for badge
 
 
 ---
