@@ -72,7 +72,7 @@ This repository highlights two things:
 - Help beginners understand Python’s quiet behavior
 - Avoid confusion that leads to false bug reports
 - Track real issues like the IntelliSense bug
-- Make learning Python smoother for VS Code users
+- Make learning Python smoother for VS Code users.
 
 ---
 
